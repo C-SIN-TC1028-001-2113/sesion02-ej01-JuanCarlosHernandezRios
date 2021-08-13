@@ -5,6 +5,7 @@ def main():
     print("Suma: " + str(a + b))
     print("Resta: " + str(a - b)) 
     print("Multiplicación: " + str(a * b))
+    
 
 
 if __name__ == '__main__':
